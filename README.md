@@ -1,7 +1,5 @@
 # Advanced-Python
-### Name - Patricia S
 ### Advance Python Assignment [Major]
-### Batch - 5
 
 import pandas as pd
 import numpy as np
